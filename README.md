@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://github.com/Chamaththa123)
-<h1 align="center">Hi 👋, I'm Chmaththa Shamod</h1>
+<h1 align="center">Hi 👋, I'm Chamaththa Shamod</h1>
 <h3 align="center">A Passionate Mobile and Web Full-Stack Developer from Sri Lanka</h3>
 <img align='right' alt='Coding' width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
 
